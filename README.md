@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/DEV3L/mvn-hello-world-web-app.png)](https://travis-ci.org/DEV3L/mvn-hello-world-web-app)
 
 # mvn-hello-world-web-app
@@ -19,3 +20,6 @@ https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-deliv
 * Import 'mvn-hello-world-web-app' as existing project into Eclipse 
 * Use maven to run integration tests and install
  * mvn clean install
+=======
+# webapp
+>>>>>>> d204f4108cbfadd93c6c5f362b4b144adf2f253c
